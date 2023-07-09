@@ -1,4 +1,7 @@
 # OneStep
+
+![logo](img/onestep_logo.png)
+
 OneStep is a Windows desktop client designed for the data analytics field. The project heavily utilizes ChatGPT for assisted design and is based on the design philosophy similar to Metabase. The project is built using PyQt-Fluent-Widgets and is based on Penpot design prototype.
 
 ## Features
